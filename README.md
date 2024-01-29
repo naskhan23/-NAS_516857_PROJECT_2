@@ -17,6 +17,23 @@ This program will generate four different drawing arts with unique visual effect
 3) ART THREE - Quads - random in size, color and position;
 4) ART FOUR - Points - random in size, color and position.
 
+## ART 1
+
+![randomArt1RectangleProject2](https://github.com/naskhan23/project22/assets/147349178/6f3944fd-369b-41a9-88c1-cd642683ab06)
+
+## ART 2
+
+![Uploading randomArt2LinesProject2.png…]()
+
+## ART 3
+
+![randomArt3QuadProject2](https://github.com/naskhan23/project22/assets/147349178/2b76699b-1334-4563-8e93-e4033c552489)
+
+## ART 4
+
+![randomArt4PointsProject2](https://github.com/naskhan23/project22/assets/147349178/c26b0d49-9b64-4798-a12e-b96ca554d1f5)
+
+
 ## BUTTONS
 
 1) START - initiates the drawing process;
