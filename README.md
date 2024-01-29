@@ -8,19 +8,19 @@ The random art generator is a simple web application that generates random art u
 
 This program will generate four different drawing arts with unique visual effects. 
 
-# ART ONE - Rectangles - random in size, color and position;
-# ART TWO - Lines - random in size, color and position;
-# ART THREE - Quads - random in size, color and position;
-# ART FOUR - Points - random in size, color and position.
+1) ART ONE - Rectangles - random in size, color and position;
+2) ART TWO - Lines - random in size, color and position;
+3) ART THREE - Quads - random in size, color and position;
+4) ART FOUR - Points - random in size, color and position.
 
 ## BUTTONS
 
-# START - initiates the drawing process;
-# STOP - pause the drawing;
-# RESET - Clears the canvas;
-# PREVIOUS - Switch to the privous drawing;
-# NEXT - Switch to the next drawing;
-# SAVE - This button will saved you the current art as PNG file.
+1) START - initiates the drawing process;
+2) STOP - pause the drawing;
+3) RESET - Clears the canvas;
+4) PREVIOUS - Switch to the privous drawing;
+5) NEXT - Switch to the next drawing;
+6) SAVE - This button will saved you the current art as PNG file.
 
 ## INSTALLATION
 
