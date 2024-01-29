@@ -4,6 +4,10 @@ RANDOM ART GENERATOR
 
 The random art generator is a simple web application that generates random art using different drawing methodes. I have used P5JS library for creative coding and visualization.
 
+## WIREFRAME
+
+![Homepage]https://github.com/naskhan23/project22/issues/1#issue-2106576581
+
 ## ARTS
 
 This program will generate four different drawing arts with unique visual effects. 
