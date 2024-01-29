@@ -23,7 +23,7 @@ This program will generate four different drawing arts with unique visual effect
 
 ## ART 2
 
-![Uploading randomArt2LinesProject2.png…]()
+![randomArt2LinesProject2](https://github.com/naskhan23/project22/assets/147349178/97e71910-a585-4c31-98be-408c984f21a2)
 
 ## ART 3
 
