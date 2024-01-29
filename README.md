@@ -51,6 +51,12 @@ There's no installation needed, simple download the source code, open the index.
 
 P5.js Javascript library for creative coding and visualization.
 
+## W3C CODE - (HTML & CSS) - CHECKER
+
+![htmlValidatorProject2](https://github.com/naskhan23/project22/assets/147349178/34eeafae-0414-4889-81d6-9dfee8830ddc)
+
+![cssValidatorProject2](https://github.com/naskhan23/project22/assets/147349178/f249e565-bd4b-43fc-bacb-3696276b05a7)
+
 ## LICENSE 
 
 This project is licensed under the MIT License.
