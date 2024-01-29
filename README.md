@@ -10,7 +10,7 @@ The random art generator is a simple web application that generates random art u
 
 ## ARTS
 
-This program will generate four different drawing arts with unique visual effects. 
+This program will generate four different drawing arts with unique visual effects. Each time you start the program, the first drawing will start automatically. Afterwards, you need to press the START button to begin with drawing.
 
 1) ART ONE - Rectangles - random in size, color and position;
 2) ART TWO - Lines - random in size, color and position;
