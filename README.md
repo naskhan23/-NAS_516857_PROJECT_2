@@ -6,7 +6,7 @@ The random art generator is a simple web application that generates random art u
 
 ## WIREFRAME
 
-![Homepage]https://github.com/naskhan23/project22/issues/1#issue-2106576581
+![project2WireFrame](https://github.com/naskhan23/project22/assets/147349178/85e7d5a9-c8b3-4324-816d-76c7461763a5)
 
 ## ARTS
 
